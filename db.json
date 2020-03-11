@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,53 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "name": "hi",
+      "email": "dsdasd@hi.com",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "name": "hi",
+      "email": "djkbkhdasd@hi.com",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "name": "hi",
+      "email": "djkbkhdasd@hi.com",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 6
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 7
+    },
+    {
+      "name": "Ben Taylorb",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 8
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 9
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 10
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +66,48 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 1
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 2
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 3
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 4
+    },
+    {
+      "name": "bb",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 5
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 6
+    },
+    {
+      "name": "Ben Taylor",
+      "email": "b_e_n10001@hotmail.co.uk",
+      "id": 7
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
